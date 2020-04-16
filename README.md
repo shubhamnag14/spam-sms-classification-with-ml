@@ -9,4 +9,4 @@
 
 In this project, We applied supervised learning (classification) algorithms and deep learning (LSTM).
 
-We used a public [SMS Spam dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection),which is not purely clean dataset.
+We used a public [SMS Spam dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection),which is not purely clean dataset.The data consists of two different columns (features)
