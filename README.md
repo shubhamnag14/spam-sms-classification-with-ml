@@ -11,4 +11,4 @@ In this project, We applied supervised learning (classification) algorithms and 
 
 We used a public [SMS Spam dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection),which is not purely clean dataset.The data consists of two different columns (features), such as context, and class.The column context is referring to SMS. The column class may take a value that can be either `spam` or `ham` corresponding to related SMS context.
 
-Before applying any supervised learning methods,
+Before applying any supervised learning methods, we applied a bunch of data cleansing operations to get rid of messy and dirty data since it has some broken and messy context.
