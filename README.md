@@ -20,3 +20,6 @@ To manage data transformation in training and testing phase effectively and avoi
 After applying those supervised learning methods, we also perfomed deep learning.
 Our deep learning architecture we used is based on [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory). To perform LSTM approching in [Keras  (Tensorflow)](https://keras.io/), we needed to create an embedding matrix of our corpus. So, we used [Gensim's Word2Vec](https://radimrehurek.com/gensim/) approach to obtain embedding matrix, rather than TF-IDF.
 
+
+
+
